@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn Z React
+            Learn AWS React
           </a>
         </header>
       </div>
